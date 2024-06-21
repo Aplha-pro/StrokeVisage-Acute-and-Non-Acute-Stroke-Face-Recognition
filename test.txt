@@ -1,11 +1,4 @@
-def predict_image(image_path):
-  img = image.load_img(image_path, target_size=(128, 128))
-  img_array = image.img_to_array(img)
-  img_array = np.expand_dims(img_array, axis=0)
-  img_array /= 255.0
-  prediction = model.predict(img_array)
-  class_label = 'acute stroke' if prediction[0] > 0.5 else 'non-acute stroke'
-  return class_label
+
 
 
 image_path = '/content/face-images-of-acute-stroke-and-non-acute-stroke/main/stroke_data/aug_0_1006.jpg'
