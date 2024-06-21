@@ -1,13 +1,5 @@
 # StrokeVisage: Acute and Non-Acute Stroke Face Recognition
 
-## Overview
-**Course**: CS456 - Computer Vision (A2)  
-**Submitted to**: Mr. Zeeshan Khan  
-**Submitted by**: Muhammad Ahmed (F2021376015)  
-
-**Department**: Artificial Intelligence  
-**University**: University of Management and Technology, Lahore  
-
 ## Introduction
 
 ### Background
