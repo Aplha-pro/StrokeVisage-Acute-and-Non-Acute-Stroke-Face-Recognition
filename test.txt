@@ -1,6 +1,0 @@
-
-
-
-image_path = '/content/face-images-of-acute-stroke-and-non-acute-stroke/main/stroke_data/aug_0_1006.jpg'
-predicted_class, confidence = predict_image(image_path)
-print(f'Predicted Class: {predicted_class}')
